@@ -1,4 +1,4 @@
-### Iris's First CS193 Homework
+# Iris's First CS193 Homework
 
 - The class is chill
 - People there are nice
